@@ -1,78 +1,59 @@
-Task 4 Discord Flag
-What is the flag? [15 points]
-THM{D15C0RD_57A5H_C0MM4ND5}
+✅ Industrial Intrusion TryHackMe Task 4 – Discord Flag
+Flag: THM{D15C0RD_57A5H_C0MM4ND5}
+Points: 15
 
-Task 5 Osint  OSINT 1
-What is the flag?
-THM{Su5sss}
+✅ Industrial Intrusion TryHackMe Task 5 – OSINT 1
+Flag: THM{Su5sss}
 
-Task 6 OSINT 2 
-What is the flag?
-THM{uplink_channel_confirmed}
+✅ Industrial Intrusion TryHackMe Task 6 – OSINT 2
+Flag: THM{uplink_channel_confirmed}
 
-Task 7 OSINT 7
-What is the flag?
-THM{h0pe_th1s_k3y_doesnt_le4d_t0_m3}
+✅ Industrial Intrusion TryHackMe Task 7 – OSINT 7
+Flag: THM{h0pe_th1s_k3y_doesnt_le4d_t0_m3}
 
-Task 8 Kaboom
-What's the PLC flag?
-THM{BOOM_BOOM_KABOOM}
+✅ Industrial Intrusion TryHackMe Task 8 – Kaboom
+PLC Flag: THM{BOOM_BOOM_KABOOM}
 
-What's the ubuntu flag?
-FLAG{cooling_bypass_exploded}
+Ubuntu Flag: FLAG{cooling_bypass_exploded}
 
-Task 9 Brr v2
-What's the flag?
-THM{modbus_hid}
+✅ Industrial Intrusion TryHackMe Task 9 – Brr v2
+Flag: THM{modbus_hid}
 
-Task 10 Brr v1
-What's the flag?
-THM{rce_archieved_through_script_injection}
+✅ Industrial Intrusion TryHackMe Task 10 – Brr v1
+Flag: THM{rce_archieved_through_script_injection}
 
-Task 11 Persistence
-What beeth the flagth?
-THM{Sn34ky_B4ckd0or_23144}
+✅ Industrial Intrusion TryHackMe Task 11 – Persistence
+Flag: THM{Sn34ky_B4ckd0or_23144}
 
-Task 12 Poison
-What is the flag?
-THM{c4ch3_m1sH3lf_p01s0n3d}
+✅ Industrial Intrusion TryHackMe Task 12 – Poison
+Flag: THM{c4ch3_m1sH3lf_p01s0n3d}
 
-Task 13 Orcam
-What is the flag?
-THM{Ev1l_M@Cr0}
+✅ Industrial Intrusion TryHackMe Task 13 – Orcam
+Flag: THM{Ev1l_M@Cr0}
 
-Task 14  Backdoored Bus
-What is the value of the flag?
-THM{b4ckd00r3d_pym0dbu5}
+✅ Industrial Intrusion TryHackMe Task 14 – Backdoored Bus
+Flag: THM{b4ckd00r3d_pym0dbu5}
 
-Task 15  Chess Industry
-What is the content of user.txt?
-THM{bishop_to_c4_check}
-What is the content of root.txt?
-THM{check_check_check_mate}
+✅ Industrial Intrusion TryHackMe Task 15 – Chess Industry
+user.txt: THM{bishop_to_c4_check}
 
+root.txt: THM{check_check_check_mate}
 
-Task 16 Under Construction
-What is the content of user.txt?
-THM{nic3_j0b_You_got_it_w00tw00t}
-What is the content of root.txt?
-THM{y0u_g0t_it_welldoneeeee}
+✅ Industrial Intrusion TryHackMe Task 16 – Under Construction
+user.txt: THM{nic3_j0b_You_got_it_w00tw00t}
 
-Task 17  Klay
-What is the flag?
-THM{K3rb3r0s_s3t_m3_fr33_bUt_R3lay_g0t_th3_k3y}
+root.txt: THM{y0u_g0t_it_welldoneeeee}
 
-Task 18 Aptitude
-What is the user flag?
-THM{L0sT_in_Th3_Attr1buT3s}
-What is the Admistrator flag?
-THM{New_l33tAPT_Who_Dis_l33t}
+✅ Industrial Intrusion TryHackMe Task 17 – Klay
+Flag: THM{K3rb3r0s_s3t_m3_fr33_bUt_R3lay_g0t_th3_k3y}
 
-Task 19 No Salt, No Shame
-What is the flag?
-THM{cbc_cl3ar4nce_gr4nt3d_10939}
+✅ Industrial Intrusion TryHackMe Task 18 – Aptitude
+User Flag: THM{L0sT_in_Th3_Attr1buT3s}
 
-Task 20 Echoed Streams
-What is the flag?
-THM{Echo_Telemetry}
+Administrator Flag: THM{New_l33tAPT_Who_Dis_l33t}
 
+✅ Industrial Intrusion TryHackMe Task 19 – No Salt, No Shame
+Flag: THM{cbc_cl3ar4nce_gr4nt3d_10939}
+
+✅ Industrial Intrusion TryHackMe Task 20 – Echoed Streams
+Flag: THM{Echo_Telemetry}
